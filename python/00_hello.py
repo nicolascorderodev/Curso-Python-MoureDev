@@ -32,3 +32,5 @@ x = False#BOOLEANO(FALSO)
 
 #Consultar el tipo de dato
 print(type(True)) #Tipo 'str'
+
+print(type(print("Mi cadena de texto."))) #Tipo 'NoneType'
